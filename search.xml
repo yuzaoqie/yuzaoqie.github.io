@@ -15,6 +15,19 @@
     </entry>
     
     
+    
+    <entry>
+      <title>技术随想</title>
+      <link href="/2024/04/29/%E6%8A%80%E6%9C%AF%E9%9A%8F%E6%83%B3/"/>
+      <url>/2024/04/29/%E6%8A%80%E6%9C%AF%E9%9A%8F%E6%83%B3/</url>
+      
+        <content type="html"><![CDATA[<h1 id="类"><a href="#类" class="headerlink" title="类"></a>类</h1><h2 id="命名规则"><a href="#命名规则" class="headerlink" title="命名规则"></a>命名规则</h2><p>驼峰命名法，首字母大写，如：MyMethod</p><h2 id="组成"><a href="#组成" class="headerlink" title="组成"></a>组成</h2><ol><li><p>属性(成员变量)</p></li><li><p>行为(方法，成员方法)</p></li></ol><p>类，是程序员自定义的数据类型</p><p>而 int 等是Java提供的数据类型</p><p>把所有猫的共性(属性)提取出来，形成一个猫类的数据类型</p><p>类就是一种数据类型，而对象就是一个具体的实例</p><p>如：int i &#x3D; 0，int是数据类型，i 则是对应的实例</p><p>只不过对象是 new 出来的：Frame frame &#x3D; new Frame();</p><h2 id="从类到对象，常见说法"><a href="#从类到对象，常见说法" class="headerlink" title="从类到对象，常见说法"></a>从类到对象，常见说法</h2><ol><li>创建一个对象</li><li>实例化一个对象</li><li>把类实例化</li></ol>]]></content>
+      
+      
+      
+    </entry>
+    
+    
   
   
 </search>
