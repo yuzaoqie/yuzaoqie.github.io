@@ -4,6 +4,31 @@
   
     
     <entry>
+      <title>突破网盘下载速度限制</title>
+      <link href="/2024/06/02/%E5%B7%A5%E5%85%B7%E5%88%86%E4%BA%AB/%E7%AA%81%E7%A0%B4%E7%BD%91%E7%9B%98%E4%B8%8B%E8%BD%BD%E9%80%9F%E5%BA%A6%E9%99%90%E5%88%B6/"/>
+      <url>/2024/06/02/%E5%B7%A5%E5%85%B7%E5%88%86%E4%BA%AB/%E7%AA%81%E7%A0%B4%E7%BD%91%E7%9B%98%E4%B8%8B%E8%BD%BD%E9%80%9F%E5%BA%A6%E9%99%90%E5%88%B6/</url>
+      
+        <content type="html"><![CDATA[<h1 id="突破网盘下载速度限制（图库挂了，图片晚点上传）"><a href="#突破网盘下载速度限制（图库挂了，图片晚点上传）" class="headerlink" title="突破网盘下载速度限制（图库挂了，图片晚点上传）"></a><strong>突破网盘下载速度限制</strong>（图库挂了，图片晚点上传）</h1><h2 id="1-安装油猴插件"><a href="#1-安装油猴插件" class="headerlink" title="1. 安装油猴插件"></a><strong>1. 安装油猴插件</strong></h2><p>获取扩展</p><p><img src="/%E7%AA%81%E7%A0%B4%E7%BD%91%E7%9B%98%E4%B8%8B%E8%BD%BD%E9%80%9F%E5%BA%A6%E9%99%90%E5%88%B6.assets/image-20240602173550390.png" alt="image-20240602173550390"></p><p>搜索<strong>tampermonkey</strong>，并安装(如图绿色底)插件</p><p><img src="/%E7%AA%81%E7%A0%B4%E7%BD%91%E7%9B%98%E4%B8%8B%E8%BD%BD%E9%80%9F%E5%BA%A6%E9%99%90%E5%88%B6.assets/image-20240602173749714.png" alt="image-20240602173749714"></p><h2 id="2-获得脚本"><a href="#2-获得脚本" class="headerlink" title="2. 获得脚本"></a><strong>2. 获得脚本</strong></h2><p>点击 <strong>油猴</strong> 扩展，获取新脚本</p><p><img src="/%E7%AA%81%E7%A0%B4%E7%BD%91%E7%9B%98%E4%B8%8B%E8%BD%BD%E9%80%9F%E5%BA%A6%E9%99%90%E5%88%B6.assets/image-20240602174003103.png" alt="image-20240602174003103"></p><p>搜索 <strong>夸克网盘</strong></p><p><img src="/%E7%AA%81%E7%A0%B4%E7%BD%91%E7%9B%98%E4%B8%8B%E8%BD%BD%E9%80%9F%E5%BA%A6%E9%99%90%E5%88%B6.assets/image-20240602174045905.png" alt="image-20240602174045905"></p><p>安装 <a href="https://greasyfork.org/scripts/436446">网盘直链下载助手</a></p><p><img src="/%E7%AA%81%E7%A0%B4%E7%BD%91%E7%9B%98%E4%B8%8B%E8%BD%BD%E9%80%9F%E5%BA%A6%E9%99%90%E5%88%B6.assets/image-20240602174121399.png" alt="image-20240602174121399"></p><h2 id="3-进入网页版网盘"><a href="#3-进入网页版网盘" class="headerlink" title="3. 进入网页版网盘"></a><strong>3. 进入网页版网盘</strong></h2><p>点击<strong>下载助手</strong></p><p><img src="/%E7%AA%81%E7%A0%B4%E7%BD%91%E7%9B%98%E4%B8%8B%E8%BD%BD%E9%80%9F%E5%BA%A6%E9%99%90%E5%88%B6.assets/image-20240602174244235.png" alt="image-20240602174244235"></p><p>根据你的<strong>下载器</strong>选择对应的下载链接</p><p><img src="/%E7%AA%81%E7%A0%B4%E7%BD%91%E7%9B%98%E4%B8%8B%E8%BD%BD%E9%80%9F%E5%BA%A6%E9%99%90%E5%88%B6.assets/image-20240602174332111.png" alt="image-20240602174332111"></p><p>各类多线程下载器的下载方法</p><p><a href="https://www.youxiaohou.com/zh-cn/bitcomet.html">多线程下载器 比特彗星 | 油小猴 (youxiaohou.com)</a></p><h2 id="4-演示-BC下载"><a href="#4-演示-BC下载" class="headerlink" title="4. 演示 BC下载"></a><strong>4. 演示 BC下载</strong></h2><p>下面我将演示 BC下载，使用<strong>比特彗星</strong>下载器</p><p>点击 BC下载后，输入口令 <strong>AGPL3</strong>,即可获得下载链接</p><p><img src="/%E7%AA%81%E7%A0%B4%E7%BD%91%E7%9B%98%E4%B8%8B%E8%BD%BD%E9%80%9F%E5%BA%A6%E9%99%90%E5%88%B6.assets/image-20240602174615044.png" alt="image-20240602174615044"></p><p>将链接复制到下载器当中，即可下载</p><p>启动 比特彗星</p><p><img src="/%E7%AA%81%E7%A0%B4%E7%BD%91%E7%9B%98%E4%B8%8B%E8%BD%BD%E9%80%9F%E5%BA%A6%E9%99%90%E5%88%B6.assets/image-20240602174731098.png" alt="image-20240602174731098"></p><p>点击磁链，并粘贴下载链接</p><p><img src="/%E7%AA%81%E7%A0%B4%E7%BD%91%E7%9B%98%E4%B8%8B%E8%BD%BD%E9%80%9F%E5%BA%A6%E9%99%90%E5%88%B6.assets/image-20240602174823753.png" alt="image-20240602174823753"></p><p>选择存放的文件夹</p><p>等待下载完成</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 工具分享 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 突破网盘下载速度限制 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>ComfyUI工作流AI绘画</title>
       <link href="/2024/06/02/AI%E7%BB%98%E7%94%BB%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/ComfyUI%E5%B7%A5%E4%BD%9C%E6%B5%81AI%E7%BB%98%E7%94%BB/"/>
       <url>/2024/06/02/AI%E7%BB%98%E7%94%BB%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/ComfyUI%E5%B7%A5%E4%BD%9C%E6%B5%81AI%E7%BB%98%E7%94%BB/</url>
