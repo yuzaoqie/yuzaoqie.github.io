@@ -21258,17 +21258,20 @@ html.hide-aside .layout > div:first-child {
   border-radius: 12px;
   padding: 16px 20px;
   margin: 20px 0;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
 }
 .ai-oneclick .ai-oneclick-title {
   font-size: 14px;
   font-weight: 600;
-  margin-bottom: 8px;
+  margin: 0;
   color: var(--anzhiyu-fontcolor);
 }
 .ai-oneclick .ai-oneclick-desc {
   font-size: 13px;
   color: var(--anzhiyu-secondtext);
-  margin-bottom: 10px;
+  margin: 0;
 }
 .ai-oneclick pre {
   background: var(--anzhiyu-code-bg);
@@ -21280,6 +21283,21 @@ html.hide-aside .layout > div:first-child {
   white-space: pre-wrap;
   word-break: break-all;
   border: 1px solid var(--anzhiyu-border);
+  margin: 0;
+}
+.ai-oneclick-btn {
+  align-self: flex-end;
+  background: var(--anzhiyu-main);
+  color: #fff;
+  border: none;
+  border-radius: 8px;
+  padding: 6px 16px;
+  font-size: 13px;
+  cursor: pointer;
+  transition: background 0.2s;
+}
+.ai-oneclick-btn:hover {
+  background: var(--anzhiyu-theme);
 }
 
 #aside-content .card-widget#card-wechat {
