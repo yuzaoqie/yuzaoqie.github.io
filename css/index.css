@@ -21251,6 +21251,37 @@ html.hide-aside .layout > div:first-child {
   }
 }
 
+/* AI 一键解读 */
+.ai-oneclick {
+  background: var(--anzhiyu-card-bg);
+  border: var(--style-border);
+  border-radius: 12px;
+  padding: 16px 20px;
+  margin: 20px 0;
+}
+.ai-oneclick .ai-oneclick-title {
+  font-size: 14px;
+  font-weight: 600;
+  margin-bottom: 8px;
+  color: var(--anzhiyu-fontcolor);
+}
+.ai-oneclick .ai-oneclick-desc {
+  font-size: 13px;
+  color: var(--anzhiyu-secondtext);
+  margin-bottom: 10px;
+}
+.ai-oneclick pre {
+  background: var(--anzhiyu-code-bg);
+  padding: 12px;
+  border-radius: 8px;
+  font-size: 13px;
+  color: var(--anzhiyu-fontcolor);
+  overflow-x: auto;
+  white-space: pre-wrap;
+  word-break: break-all;
+  border: 1px solid var(--anzhiyu-border);
+}
+
 #aside-content .card-widget#card-wechat {
   background: #57bd6a;
   display: flex;
